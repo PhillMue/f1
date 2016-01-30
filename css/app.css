@@ -54,7 +54,17 @@ section::after {
   margin-top: 20px;
   font-size: 1.6rem;
 }
-
+.hero__link {
+  display: inline-block;
+  padding: 15px 40px;
+  color: #fff;
+  text-decoration: none;
+  border: 10px solid white;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+    background-color: sandybrown;
+    font-size: 20px;
+}
 
 
 
