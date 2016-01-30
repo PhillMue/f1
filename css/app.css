@@ -43,6 +43,20 @@ section::after {
   width: 50%;
   height: 50%;
 }
+.hero__heading {
+  font-size: 3rem;
+  line-height: 1.5;
+    color: white;
+    margin-top: -70px;
+    background-color: sandybrown;
+}
+
+
+
+
+
+
+
 
 
 
