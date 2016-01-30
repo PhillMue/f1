@@ -77,7 +77,14 @@ section::after {
     background-position: 0 0;
   }
 }
-
+@keyframes animatedBackground {
+  from {
+    background-position:  0 0;
+  }
+  to {
+    background-position: 0 ;
+  }
+}
 
 
 
