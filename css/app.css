@@ -12,7 +12,7 @@ section {
 
 section::after {
   content: "";
-  background-image: url("/burger3.jpg");
+  background-image:url(burger3.jpg);
   top: 0;
   left: 0;
   bottom: 0;
@@ -23,7 +23,6 @@ section::after {
     filter: grayscale(80%);
      -webkit-animation: animatedBackground 60s linear infinite;
           animation: animatedBackground 60s linear infinite;
-}
 }
 .hero {
   position: relative;
