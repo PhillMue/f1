@@ -24,3 +24,19 @@ section::after {
      -webkit-animation: animatedBackground 60s linear infinite;
           animation: animatedBackground 60s linear infinite;
 }
+}
+.hero {
+  position: relative;
+  height: 97vh;
+    width: 190vh;
+  color: white;
+  font-family: Lato;
+  text-align: center;
+}
+
+
+
+
+
+
+
