@@ -65,6 +65,10 @@ section::after {
     background-color: sandybrown;
     font-size: 20px;
 }
+.hero__link:hover {
+  background: #fff;
+  color: #000;
+}
 
 
 
