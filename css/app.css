@@ -85,7 +85,10 @@ section::after {
     background-position: 0 ;
   }
 }
-
+.heroimage {
+    padding-bottom: 5%;
+    height: 100%;
+}
 
 
 
